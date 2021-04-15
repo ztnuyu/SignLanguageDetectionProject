@@ -29,7 +29,7 @@ The following directory is our structure of our project:
 
 - $ tree --dirsfirst --filelimit 10
 - .
-- ├── dataset
+- ├── pyimagesearch
 - │   ├── __init__.py
 - |   ├── detection.py
 - │   └── social_distancing_config.py
@@ -41,6 +41,16 @@ The following directory is our structure of our project:
 - ├── pedestrians.mp4
 - └── social_distance_detector.py
 - 2 directories, 9 files
+
+Our YOLO object detector files including the CNN architecture definition, pre-trained weights, and class names are housed in the yolo-coco/ directory. This YOLO model is compatible with OpenCV’s DNN module.
+
+We’ll be reviewing three Python scripts in this tutorial:
+
+- social_distancing_config.py: A Python file holding a number of constants in one convenient place.
+- detection.py: YOLO object detection with OpenCV involves more lines of code that some easier models. We’ve decided to put the object detection logic in a function in this file for convenience. Doing so frees up our driver script’s frame processing loop from becoming especially cluttered
+- social_distance_detector.py: This file is responsible for looping over frames of a video stream and ensuring that people are maintaining a healthy distance from one another during a pandemic. It is compatible with video files.
+
+In the next two sections, we will train our social distancing detector.
 
 ## E   TRAINING THE SOCIAL DISTANCING DETECTOR
 
