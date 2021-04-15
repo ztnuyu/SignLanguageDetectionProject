@@ -42,11 +42,11 @@ def detect_people(frame, net, ln, personIdx=0):
 
                 # use the center (x,y)-coordinates to derive the top and left corner of 
                 # the bounding box
-                x = int(centerX - (width / 2))
-                y = int(centerY - (height / 2))
+                y = int(centerX - (width / 2))
+                z = int(centerY - (height / 2))
 
                 # update the list of bounding box coordinates, centroids and confidences
-                boxes.append([x, y, int(width), int(height)])
+                boxes.append([y, z, int(width), int(height)])
                 centroids.append((centerX, centerY))
                 confidences.append(float(confidence))
 
