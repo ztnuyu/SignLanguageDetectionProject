@@ -26,6 +26,3 @@
 
 ## G.   PROJECT PRESENTATION 
 
-
-
-
