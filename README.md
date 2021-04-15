@@ -26,20 +26,21 @@ Figure 1: Social distancing is important in times of epidemics and pandemics to 
 ## D.  PROJECT STRUCTURE
 
 The following directory is our structure of our project:
--$ tree --dirsfirst
--.
--├── pyimagesearch
--│   ├── __init__.py
--│   ├── detection.py
--│   └── social_distancing_config.py
--├── yolo-coco
--│   ├── coco.names
--│   ├── yolov3.cfg
--│   └── yolov3.weights
--├── output.avi
--├── pedestrians.mp4
--└── social_distance_detector.py
--2 directories, 9 files
+
+- $ tree --dirsfirst --filelimit 10
+- .
+- ├── dataset
+- │   ├── __init__.py
+- |   ├── detection.py
+- │   └── social_distancing_config.py
+- ├── yolo-coco
+- │   ├── coco.names
+- │   ├── yolov3.cfg
+- │   └── yolov3.weights
+- ├── output.avi
+- ├── pedestrians.mp4
+- └── social_distance_detector.py
+- 2 directories, 9 files
 
 ## E   TRAINING THE SOCIAL DISTANCING DETECTOR
 
