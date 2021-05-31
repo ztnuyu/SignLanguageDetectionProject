@@ -60,12 +60,6 @@ In the next two sections, we will train our social distancing detector.
 
 ## F.  RESULT AND CONCLUSION
 
-### Demo 📽️
-
-
-![60b45f6b3c061900409088](https://user-images.githubusercontent.com/73053555/120137932-f7a0c400-c207-11eb-8e3a-c714fbb4adb8.gif)
-
-
 ### Result 📽️
 
 ![60b45dab77bff301509658](https://user-images.githubusercontent.com/73053555/120137446-eacfa080-c206-11eb-8d56-52484a170b04.gif)
