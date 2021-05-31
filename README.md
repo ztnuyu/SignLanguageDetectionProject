@@ -62,12 +62,13 @@ In the next two sections, we will train our social distancing detector.
 
 ### Demo 📽️
 
-![demo0 (1)](https://user-images.githubusercontent.com/73053555/120136561-046fe880-c205-11eb-8f9f-f6aac108d327.gif)
+
 
 
 ### Result 📽️
 
-![60b45d0e39812637921757](https://user-images.githubusercontent.com/73053555/120137266-7c8ade00-c206-11eb-8dee-0f68be6c9c4d.gif)
+![60b45dab77bff301509658](https://user-images.githubusercontent.com/73053555/120137446-eacfa080-c206-11eb-8d56-52484a170b04.gif)
+
 
 
 
