@@ -57,7 +57,21 @@ In the next two sections, we will train our social distancing detector.
 
 ## E   TRAINING THE SOCIAL DISTANCING DETECTOR
 
+
+
 ## F.  RESULT AND CONCLUSION
+
+# Demo
+
+
+
+
+
+
+# Result
+
+
+
 
 ## G.  PROJECT PRESENTATION 
 
