@@ -61,14 +61,15 @@ In the next two sections, we will train our social distancing detector.
 
 ## F.  RESULT AND CONCLUSION
 
-# Demo
+### Demo
 
 
 
 
 
 
-# Result
+
+### Result
 
 
 
