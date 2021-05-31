@@ -5,10 +5,7 @@
 **Project Title:** Social Distancing Detector Project
 
 **Team Members:** 
-- Nur Aisah Tan binti Osman Tan - B031920006
-- Fatin Najiha binti Mohd Tarmidi - B031920036
-- Nurul Izzati binti Suhaimi - B031920001
-- Wan Mohamad Nur'Akid Bin Wan Muhammad
+![Pink White Playful   Celebratory Drive-by Graduation Flat Card](https://user-images.githubusercontent.com/73053555/120147125-c67cbf80-c218-11eb-9e02-adc40210d274.png)
 
 
 **Objectives:**
