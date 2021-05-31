@@ -5,9 +5,9 @@
 **Project Title:** Social Distancing Detector Project
 
 **Team Members:** 
-- Nur Aisah Tan binti Osman Tan
-- Fatin Najiha binti Mohd Tarmidi
-- Nurul Izzati binti Suhaimi
+- Nur Aisah Tan binti Osman Tan - B031920006
+- Fatin Najiha binti Mohd Tarmidi - B031920036
+- Nurul Izzati binti Suhaimi - B031920001
 - Wan Mohamad Nur'Akid Bin Wan Muhammad
 
 
@@ -67,6 +67,7 @@ In the next two sections, we will train our social distancing detector.
 
 ### Result 📽️
 
+![60b45cc5967ef382586325](https://user-images.githubusercontent.com/73053555/120137170-49484f00-c206-11eb-9790-fd1e5c35cbc1.gif)
 
 
 
