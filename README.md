@@ -46,7 +46,7 @@ The following directory is our structure of our project:
 
 Our YOLO object detector files including the CNN architecture definition, pre-trained weights, and class names are housed in the yolo-coco/ directory. This YOLO model is compatible with OpenCV’s DNN module.
 
-We’ll be reviewing three Python scripts in this tutorial:
+Three python scripts will be reviewed:
 
 - social_distancing_config.py: A Python file holding a number of constants in one convenient place.
 - detection.py: YOLO object detection with OpenCV involves more lines of code that some easier models. We’ve decided to put the object detection logic in a function in this file for convenience. Doing so frees up our driver script’s frame processing loop from becoming especially cluttered
