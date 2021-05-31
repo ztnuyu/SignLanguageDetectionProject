@@ -1,4 +1,3 @@
-
 # 😷 COVID-19 SOCIAL DISTANCING DETECTOR PROJECT
 
 ## A. PROJECT SUMMARY
@@ -61,15 +60,15 @@ In the next two sections, we will train our social distancing detector.
 
 ## F.  RESULT AND CONCLUSION
 
-### Demo
+### Demo 📽️
+
+![demo0 (1)](https://user-images.githubusercontent.com/73053555/120136561-046fe880-c205-11eb-8f9f-f6aac108d327.gif)
+
+
+### Result 📽️
 
 
 
-
-
-
-
-### Result
 
 
 
