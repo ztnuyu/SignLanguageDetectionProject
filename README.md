@@ -53,6 +53,9 @@ In the next two sections, we will train our social distancing detector.
 
 ## E. TRAINING THE SOCIAL DISTANCING DETECTOR
 ![image](https://user-images.githubusercontent.com/74868126/121727464-8671e280-cb1e-11eb-8e0b-e094b2ac682e.png)
+
+A video will be loaded as the input of Social Distancing Detector. People are classified as maintaining social distancing or not depending on how much gap they maintain between them. They'll be labelled with different coloured frames, and the number of people who aren't socially isolated will be displayed. When two or more individuals stand near to one another, the system detects no social distancing, calculates the total number of persons who breach social distance, and labels them with a red frame, but when the frame is blue, the system finds there is social distance.
+
 ![image](https://user-images.githubusercontent.com/74868126/121729429-0ac56500-cb21-11eb-8c55-e9d8adab609e.png)
 
 
