@@ -52,14 +52,36 @@ Three python scripts will be reviewed:
 In the next two sections, we will train our social distancing detector.
 
 ## E. TRAINING THE SOCIAL DISTANCING DETECTOR
+
+The model is trained by loading the dataset into the model first and then training it. The video stream is then identified once the model has been loaded. Finally, based on the distance frames, people are additionally labelled with markers indicating whether they maintain or violate social distancing.
+
 ![image](https://user-images.githubusercontent.com/74868126/121727464-8671e280-cb1e-11eb-8e0b-e094b2ac682e.png)
 
 A video will be loaded as the input of Social Distancing Detector. People are classified as maintaining social distancing or not depending on how much gap they maintain between them. They'll be labelled with different coloured frames, and the number of people who aren't socially isolated will be displayed. When two or more individuals stand near to one another, the system detects no social distancing, calculates the total number of persons who breach social distance, and labels them with a red frame, but when the frame is blue, the system finds there is social distance.
 
 ![image](https://user-images.githubusercontent.com/74868126/121729429-0ac56500-cb21-11eb-8c55-e9d8adab609e.png)
 
-
-
+### Output
+-Epoch 1/10
+-345/345 [==============================] - 1s 2ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 2/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 3/10
+-345/345 [==============================] - 1s 2ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 4/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 5/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 6/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 7/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 8/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 9/10
+-345/345 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+-Epoch 10/10
+-345/345 [==============================] - 1s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
 
 ## F.  RESULT AND CONCLUSION
 
@@ -67,6 +89,7 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 
 ![60b45dab77bff301509658](https://user-images.githubusercontent.com/73053555/120137446-eacfa080-c206-11eb-8d56-52484a170b04.gif)
 
+### Conclusion
 
 
 
