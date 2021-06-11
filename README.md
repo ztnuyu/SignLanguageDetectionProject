@@ -52,6 +52,9 @@ Three python scripts will be reviewed:
 In the next two sections, we will train our social distancing detector.
 
 ## E. TRAINING THE SOCIAL DISTANCING DETECTOR
+![image](https://user-images.githubusercontent.com/74868126/121727464-8671e280-cb1e-11eb-8e0b-e094b2ac682e.png)
+![image](https://user-images.githubusercontent.com/74868126/121729429-0ac56500-cb21-11eb-8c55-e9d8adab609e.png)
+
 
 
 
