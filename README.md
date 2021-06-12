@@ -9,8 +9,9 @@
 **Project Title:** Social Distancing Detector Project
 
 **Team Members:** 
-![Pink White Playful   Celebratory Drive-by Graduation Flat Card](https://user-images.githubusercontent.com/73053555/121768162-4860d700-cb8f-11eb-984b-04e22dd0b987.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/121768162-4860d700-cb8f-11eb-984b-04e22dd0b987.png" width= "1000" height= "600" align ="center" class="animated" />
+</p>
 
 **Objectives:**
 - To control the spread of contagious diseases - coronavirus.
@@ -20,7 +21,10 @@
 ## B.  ABSTRACT 
 Social distancing is a method used to control the spread of contagious diseases. It implies that people physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a contagious disease (such as the COVID-19 Disease). In the battle against COVID-19, social distancing has proved to be a highly successful strategy for slowing the disease's spread. People are being urged to restrict their contacts with one another in order to reduce the risk of the virus spreading through physical or near contact. In the past, AI/Deep Learning has shown promise in solving a variety of everyday problems. We can see a clear overview of how we can use Python, Computer Vision, and Deep Learning to monitor social distancing in public places and workplaces in this proposed system. The social distancing detection tool will track whether people are maintaining a safe distance from each other in public places and the workplace to ensure social distancing protocol.
 
-![Coding](https://www.pyimagesearch.com/wp-content/uploads/2020/05/social_distance_detector_example.png)
+<p align="center">
+  <img src="https://www.pyimagesearch.com/wp-content/uploads/2020/05/social_distance_detector_example.png" class="animated" />
+</p>
+
 
 Figure 1: Social distancing is important in times of epidemics and pandemics to prevent the spread of disease.
 
@@ -90,8 +94,10 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 ## F.  RESULT AND CONCLUSION
 
 ### Result 📽️
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/120137446-eacfa080-c206-11eb-8d56-52484a170b04.gif" width= "1000" height= "600" align ="center" class="animated" />
+</p>
 
-![60b45dab77bff301509658](https://user-images.githubusercontent.com/73053555/120137446-eacfa080-c206-11eb-8d56-52484a170b04.gif)
 
 ### Conclusion
 Our project distinguishes the social distancing pattern and classifies them as a violation of social distancing or maintaining the social distancing norm. Additionally, it also displays labels number of people who violate the social distancing through a video. However, this system can be implemented in CCTV for surveillance of people during pandemics. To restrict the spread of the Covid-19, social separation and other fundamental hygienic measures are now critical.
