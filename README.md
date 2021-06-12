@@ -5,7 +5,7 @@
 **Project Title:** Social Distancing Detector Project
 
 **Team Members:** 
-![image](https://user-images.githubusercontent.com/73053555/120147261-f75cf480-c218-11eb-8f93-4c45df85cf2c.png)
+![Pink White Playful   Celebratory Drive-by Graduation Flat Card](https://user-images.githubusercontent.com/73053555/121768162-4860d700-cb8f-11eb-984b-04e22dd0b987.png)
 
 
 **Objectives:**
