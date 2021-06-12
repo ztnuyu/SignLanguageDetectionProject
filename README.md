@@ -1,8 +1,6 @@
 # 😷 COVID-19 SOCIAL DISTANCING DETECTOR PROJECT
 
 ![image](https://user-images.githubusercontent.com/73053555/121768522-38e28d80-cb91-11eb-8ca8-644f089d09f1.png)
-![image](https://user-images.githubusercontent.com/73053555/121768556-531c6b80-cb91-11eb-8974-05486153117b.png)
-
 
 ## A. PROJECT SUMMARY
 
