@@ -1,5 +1,7 @@
 # 😷 COVID-19 SOCIAL DISTANCING DETECTOR PROJECT
 
+![bb3cd67cd6c8f8faa8882d2e2725c649](https://user-images.githubusercontent.com/73053555/121768280-1308b900-cb90-11eb-8826-f46b2c043f82.gif)
+
 ## A. PROJECT SUMMARY
 
 **Project Title:** Social Distancing Detector Project
@@ -95,4 +97,4 @@ Our project distinguishes the social distancing pattern and classifies them as a
 
 
 ## G.  PROJECT PRESENTATION 
-
+https://www.youtube.com/watch?v=1D8qq2tjMxU
