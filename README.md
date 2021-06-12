@@ -105,4 +105,4 @@ Our project distinguishes the social distancing pattern and classifies them as a
 
 
 ## G.  PROJECT PRESENTATION 
-https://www.youtube.com/watch?v=1D8qq2tjMxU
+https://www.youtube.com/watch?v=9rfOVLf2wjs
