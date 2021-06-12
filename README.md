@@ -1,5 +1,5 @@
 # 😷 COVID-19 SOCIAL DISTANCING DETECTOR PROJECT
-![image](https://user-images.githubusercontent.com/73053555/121768596-86f79100-cb91-11eb-90c5-0295dc13b6d8.png)
+![UN-PH_socialDistancing_txp](https://user-images.githubusercontent.com/73053555/121768609-97a80700-cb91-11eb-86f2-968a503c4210.gif)
 
 
 ## A. PROJECT SUMMARY
