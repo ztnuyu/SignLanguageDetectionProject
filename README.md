@@ -90,7 +90,7 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 ![60b45dab77bff301509658](https://user-images.githubusercontent.com/73053555/120137446-eacfa080-c206-11eb-8d56-52484a170b04.gif)
 
 ### Conclusion
-
+Our project distinguishes the social distancing pattern and classifies them as a violation of social distancing or maintaining the social distancing norm. Additionally, it also displays labels number of people who violate the social distancing through a video. However, this system can be implemented in CCTV for surveillance of people during pandemics. To restrict the spread of the Covid-19, social separation and other fundamental hygienic measures are now critical.
 
 
 
