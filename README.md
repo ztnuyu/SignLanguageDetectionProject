@@ -92,11 +92,12 @@ In this project, we have learned how to implement a social distancing detector u
 
 Our implementation worked by:
 
--Using the YOLO object detector to detect people in a video stream
- - ✔️Determining the centroids for each detected person
- - ✔️Computing the pairwise distances between all centroids
- - ✔️Checking to see if any pairwise distances were < N pixels apart, and if so, indicating that the pair of people violated social distancing rules
-Furthermore, by using an NVIDIA CUDA-capable GPU, along with OpenCV’s dnn module compiled with NVIDIA GPU support, our method was able to run in real-time, making it usable as a proof-of-concept social distancing detector.
-
+- Using the YOLO object detector to detect people in a video stream ✔️
+ - Determining the centroids for each detected person ✔️
+ - Computing the pairwise distances between all centroids ✔️
+ - Checking to see if any pairwise distances were < N pixels apart, and if so, indicating that the pair of people violated social distancing rules ✔️
+<p>
+  Furthermore, by using an NVIDIA CUDA-capable GPU, along with OpenCV’s dnn module compiled with NVIDIA GPU support, our method was able to run in real-time, making it usable as a proof-of-concept social distancing detector.
+</p>
 
 https://www.youtube.com/watch?v=9rfOVLf2wjs
