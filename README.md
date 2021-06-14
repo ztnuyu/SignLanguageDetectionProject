@@ -89,7 +89,11 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 </p>
 
 <p align="center">
-  <img src="" width= "500" height= "250" align ="center" class="animated" />
+  <img src="https://user-images.githubusercontent.com/73053555/121913946-67649200-cd64-11eb-8871-a625d30a7c00.gif" width= "500" height= "250" align ="center" class="animated" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/121914256-ae528780-cd64-11eb-854a-e1fc4450cc14.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
 
 
