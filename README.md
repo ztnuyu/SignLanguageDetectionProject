@@ -9,8 +9,9 @@
 **Project Title:** Social Distancing Detector Project
 
 **Team Members:** 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73053555/121768162-4860d700-cb8f-11eb-984b-04e22dd0b987.png" width= "1000" height= "600" align ="center" class="animated" />
+  <img src="https://user-images.githubusercontent.com/73053555/121847224-d3220d00-cd1a-11eb-82fb-6516c88c217f.png" width= "1000" height= "600" align ="center" class="animated" />
 </p>
 
 **Objectives:**
