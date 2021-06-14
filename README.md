@@ -87,4 +87,8 @@ Our project distinguishes the social distancing pattern and classifies them as a
 
 
 ## G.  PROJECT PRESENTATION 
+
+#Detecting people in images and video streams with OpenCV
+
+
 https://www.youtube.com/watch?v=9rfOVLf2wjs
