@@ -76,21 +76,25 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 ## F.  RESULT AND CONCLUSION
 
 ### Result 📽️
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121911088-02a83800-cd62-11eb-8b68-e00a4881330b.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121911140-10f65400-cd62-11eb-8c23-9fd287aac259.gif" width= "500" height= "250" align ="center" class="animated" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121913946-67649200-cd64-11eb-8871-a625d30a7c00.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/121914753-2456ee80-cd65-11eb-8f1c-4ecfa2a2c881.gif" width= "500" height= "250" align ="center" class="animated" />
+</p> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121914256-ae528780-cd64-11eb-854a-e1fc4450cc14.gif" width= "500" height= "250" align ="center" class="animated" />
