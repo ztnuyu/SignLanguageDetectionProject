@@ -70,26 +70,7 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 ![image](https://user-images.githubusercontent.com/74868126/121729429-0ac56500-cb21-11eb-8c55-e9d8adab609e.png)
 
 ### Output
-- Epoch 1/10
-- 345/345 [===========================] - 1s 2ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 2/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 3/10
-- 345/345 [===========================] - 1s 2ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 4/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 5/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 6/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 7/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 8/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 9/10
-- 345/345 [===========================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 10/10
-- 345/345 [===========================] - 1s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
+
 
 ## F.  RESULT AND CONCLUSION
 
