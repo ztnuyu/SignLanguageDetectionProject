@@ -141,3 +141,12 @@ Our implementation worked by:
 
 <p><a href="https://www.youtube.com/watch?v=9rfOVLf2wjs">Click here to proceed with project demo</a></p>
 
+## ACKNOWLEDGEMENT
+
+- Sources that our group consults from:
+
+<p>:point_right:<a href="https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/">Social Distancing Detector</a></p>
+
+
+
+
