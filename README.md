@@ -151,7 +151,7 @@ Our implementation worked by:
 <p>:point_right:<a href="https://www.youtube.com/watch?v=eBlRTel6AJY&t=3s">Youtube Video on Social Distancing Detector</a></p>
 
 
-### Video for Dataset and Training
+### Videos for Dataset and Training
 <p>:point_right:<a href="https://www.youtube.com/watch?v=ar3JK0Qbxmw">Dinosaur Encounter @ Zoo Melaka, Melaka, Malaysia</a></p>
 <p>:point_right:<a href="https://www.youtube.com/watch?v=XSubEn_d_gc&t=133s">Kwai Chai Hong, Petaling Street Chinatown, Kuala Lumpur, Malaysia</a></p>
 
