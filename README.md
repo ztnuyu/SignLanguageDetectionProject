@@ -157,7 +157,7 @@ Our implementation worked by:
   Furthermore, by using an NVIDIA CUDA-capable GPU, along with OpenCV’s dnn module compiled with NVIDIA GPU support, our method was able to run in real-time, making it usable as a proof-of-concept social distancing detector.
 </p>
 
-<p><a href="https://www.youtube.com/watch?v=9rfOVLf2wjs">Click here to proceed with project demo</a></p>
+<p><a href="https://youtu.be/1dnZ3NcB9Tw">Click here to proceed with project demo</a></p>
 
 ## ACKNOWLEDGEMENT
 
