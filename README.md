@@ -74,20 +74,21 @@ We use 4 videos with different environment as our dataset for training our socia
 
 The following directory is our structure of our project:
 
-<!-- - $ tree --dirsfirst --filelimit 10
+- $ tree --dirsfirst --filelimit 10
 - .
-- ├── pyimagesearch
-- │   ├── __init__.py
-- |   ├── detection.py
-- │   └── social_distancing_config.py
-- ├── yolo-coco
+- ├── result
+- │   ├── outputkfc.avi
+- |   ├── outputkl.avi
+- |   ├── outpututem.avi  
+- │   └── outputzoo.avi
+- ├── src
+- │   ├── config.py
+- │   ├── detection.py
+- │   └── social_distancing_detector.py
+- ├── yolo-object-detector-algorithm
 - │   ├── coco.names
-- │   ├── yolov3.cfg
-- │   └── yolov3.weights
-- ├── output.avi
-- ├── pedestrians.mp4
-- └── social_distance_detector.py
-- 2 directories, 9 files -->
+- │   └── yolov4.cfg
+- 3 directories, 9 files
 
 Our YOLO object detector files including the CNN architecture definition, pre-trained weights, and class names are housed in the yolo-object-detector-algorithm/ directory. This YOLO model is compatible with OpenCV’s DNN module.
 
