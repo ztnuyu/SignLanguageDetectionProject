@@ -91,6 +91,8 @@ The experimental results section for this project details the results obtained a
   <img src="https://user-images.githubusercontent.com/73053555/121987903-f789f200-cdcb-11eb-979a-80799a2ded35.png" width= "500" height= "250" align ="center" class="animated" />
 </p>
 
+Figure 3: YOLO Darknet Architecture
+
 ### Result 📽️
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
