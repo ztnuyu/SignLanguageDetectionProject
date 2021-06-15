@@ -66,7 +66,7 @@ This video was shot at a Kentucky Fried Chicken (KFC) restaurant in June 2021. W
 
 The following directory is our structure of our project:
 
-- $ tree --dirsfirst --filelimit 10
+<!-- - $ tree --dirsfirst --filelimit 10
 - .
 - ├── pyimagesearch
 - │   ├── __init__.py
@@ -79,7 +79,7 @@ The following directory is our structure of our project:
 - ├── output.avi
 - ├── pedestrians.mp4
 - └── social_distance_detector.py
-- 2 directories, 9 files
+- 2 directories, 9 files -->
 
 Our YOLO object detector files including the CNN architecture definition, pre-trained weights, and class names are housed in the yolo-coco/ directory. This YOLO model is compatible with OpenCV’s DNN module.
 
