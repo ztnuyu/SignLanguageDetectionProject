@@ -49,8 +49,6 @@ We used the video below as our dataset for training our social distancing detect
 
 ![kfcreduced2 gif](https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif)
 
-
-https://user-images.githubusercontent.com/80897577/121992935-28baf000-cdd5-11eb-8552-7cf3f20635d4.mp4
 ## D.  PROJECT STRUCTURE
 
 The following directory is our structure of our project:
