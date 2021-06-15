@@ -41,7 +41,14 @@ The architecture can be seen in the above diagram to contain the Input image lay
 
 ## C.  DATASET
 
-We used 3 video as our dataset for training our social distancing detector. The detector will determine whether the distance between people is less than one metre or greater than one metre. This allows us to distinguish between those who strictly adhere to the protocol and those who disregard it.
+We use 4 videos as our dataset for training our social distancing detector. Two of our videos were shot by us, while the other two were found on YouTube.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74868126/122060847-87598b80-ce20-11eb-9850-4a043f47ba27.mp4" width= "500" height= "250" align ="center" class="animated" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
@@ -189,7 +196,7 @@ Epoch 35/35
 ![image](https://user-images.githubusercontent.com/74868126/122054498-50807700-ce1a-11eb-96bb-823d0d97bae7.png)
 
 Here we use Tensorboard in Google Colaboratory.
-From the plot of accuracy and loss we can see that the model showing comparable skill on the train and validation datasets.
+From the plot of accuracy and loss we can see that the model showing comparable skill on the train and validation datasets. The gap between training and validation accuracy has a little overfitting. 
 
 
 ## F.  RESULT AND CONCLUSION
