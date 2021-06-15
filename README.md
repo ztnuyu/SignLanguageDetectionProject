@@ -26,8 +26,18 @@ Social distancing is a method used to control the spread of contagious diseases.
   <img src="https://www.pyimagesearch.com/wp-content/uploads/2020/05/social_distance_detector_example.png" class="animated" />
 </p>
 
-
 Figure 1: Social distancing is important in times of epidemics and pandemics to prevent the spread of disease.
+
+The Yolo algorithm stands for You Only Look Once, this algorithm is a state of art, which works on a real-time system, build on deep learning for solving various Object Detection as well as Object Tracking problems. The architecture of Yolo can be observed from the below Figure 2.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/121987569-51d68300-cdcb-11eb-85dc-2b6e65ecfd14.png" class="animated" />
+</p>
+
+Figure 2: YOLO Architecture- Image
+
+The architecture can be seen in the above diagram to contain the Input image layers, which are responsible for receiving the inputs that will be transmitted to subsequent levels. The input can be any picture depending on the use cases. Along the input layer is the DarkNet Architecture, which is an open-source neural network framework built with C and CUDA. This framework includes YOLO for object identification and tracking.
+
 
 ## C.  DATASET
 
@@ -74,6 +84,12 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 
 
 ## F.  RESULT AND CONCLUSION
+
+The experimental results section for this project details the results obtained after doing various observations and forming final outputs. This project focuses on social distancing detection for the events of Covid-19, Figure 3 explains the architecture for calculating the distance between objects and shows the flow of how the output is getting generated with the use of Yolo Version 4.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/121987903-f789f200-cdcb-11eb-979a-80799a2ded35.png" width= "500" height= "250" align ="center" class="animated" />
+</p>
 
 ### Result 📽️
 <!-- <p align="center">
