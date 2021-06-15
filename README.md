@@ -41,6 +41,16 @@ The architecture can be seen in the above diagram to contain the Input image lay
 
 ## C.  DATASET
 
+We used the video below as our dataset for training our social distancing detector. The video shows people queuing according to the social distance protocol. The detector will determine whether the distance between people is less than one metre or greater than one metre. This allows us to distinguish between those who strictly adhere to the protocol and those who disregard it.
+
+![zoogif gif](https://user-images.githubusercontent.com/80897577/121993593-56546900-cdd6-11eb-909a-cee799a39bd6.gif)
+
+![klstreet gif](https://user-images.githubusercontent.com/80897577/121993627-68cea280-cdd6-11eb-8716-a49bf3de4bd8.gif)
+
+![kfcreduced2 gif](https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif)
+
+
+https://user-images.githubusercontent.com/80897577/121992935-28baf000-cdd5-11eb-8552-7cf3f20635d4.mp4
 ## D.  PROJECT STRUCTURE
 
 The following directory is our structure of our project:
