@@ -46,13 +46,13 @@ We used 3 video as our dataset for training our social distancing detector. The 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80897577/122011162-65dfac00-cdee-11eb-826d-54fedf52807a.gif">
 </p>
-When people visited Dinosaur Encounter @ Zoo Melaka in Melaka, Malaysia, a YouTube channel uploaded this video. It was taken in December of 2020. Some people in this video keep the one-metre gap, but many do not.
+When people visited Dinosaur Encounter @ Zoo Melaka in Melaka, Malaysia, a YouTube channel, Walk Around Malaysia uploaded this video. It was taken in December of 2020. Some people in this video keep the one-metre gap, but many do not.
 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80897577/122011539-c838ac80-cdee-11eb-9a43-90fd2a71259a.gif">
 </p>
-This video was also taken from YouTube, but it was shot in a different location. The photograph was taken in October 2020 at Kwai Chai Hong, Petaling Street Chinatown, Kuala Lumpur, Malaysia. Many people were walking down the street, disregarding the 1-metre gap protocol.
+This video was also taken from YouTube channel of Walk Around Malaysia, but it was shot in a different location. The photograph was taken in October 2020 at Kwai Chai Hong, Petaling Street Chinatown, Kuala Lumpur, Malaysia. Many people were walking down the street, disregarding the 1-metre gap protocol.
 
 
 
