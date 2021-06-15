@@ -44,14 +44,17 @@ The architecture can be seen in the above diagram to contain the Input image lay
 We used 3 video as our dataset for training our social distancing detector. The detector will determine whether the distance between people is less than one metre or greater than one metre. This allows us to distinguish between those who strictly adhere to the protocol and those who disregard it.
 
 <p align="center">
-  <img src="https://www.youtube.com/watch?v=ar3JK0Qbxmw">
+  <img src="https://user-images.githubusercontent.com/80897577/122011162-65dfac00-cdee-11eb-826d-54fedf52807a.gif">
 </p>
-This video was uploaded to YouTube by visitors to Dinosaur Encounter @ Zoo Melaka in Melaka, Malaysia. It was photographed in December of 2020. There are some people in this video who keep the 1 metre gap, but many do not.
+When people visited Dinosaur Encounter @ Zoo Melaka in Melaka, Malaysia, a YouTube channel uploaded this video. It was taken in December of 2020. Some people in this video keep the one-metre gap, but many do not.
+
 
 <p align="center">
-  <img src="https://www.youtube.com/watch?v=XSubEn_d_gc&t=133s">
+  <img src="https://user-images.githubusercontent.com/80897577/122011539-c838ac80-cdee-11eb-9a43-90fd2a71259a.gif">
 </p>
 This video was also taken from YouTube, but it was shot in a different location. The photograph was taken in October 2020 at Kwai Chai Hong, Petaling Street Chinatown, Kuala Lumpur, Malaysia. Many people were walking down the street, disregarding the 1-metre gap protocol.
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif">
