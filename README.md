@@ -78,9 +78,9 @@ The following directory is our structure of our project:
 - .
 - ├── result
 - │   ├── outputkfc.avi
-- |   ├── outputkl.avi
-- |   ├── outpututem.avi  
-- │   └── outputzoo.avi
+- │   ├── outputkl.avi
+- │   ├── outputzoo.avi
+- │   └── outpututem.avi
 - ├── src
 - │   ├── config.py
 - │   ├── detection.py
