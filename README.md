@@ -81,7 +81,7 @@ The following directory is our structure of our project:
 - └── social_distance_detector.py
 - 2 directories, 9 files -->
 
-Our YOLO object detector files including the CNN architecture definition, pre-trained weights, and class names are housed in the yolo-coco/ directory. This YOLO model is compatible with OpenCV’s DNN module.
+Our YOLO object detector files including the CNN architecture definition, pre-trained weights, and class names are housed in the yolo-object-detector/ directory. This YOLO model is compatible with OpenCV’s DNN module.
 
 Three python scripts will be reviewed:
 
