@@ -41,13 +41,23 @@ The architecture can be seen in the above diagram to contain the Input image lay
 
 ## C.  DATASET
 
-We used the video below as our dataset for training our social distancing detector. The video shows people queuing according to the social distance protocol. The detector will determine whether the distance between people is less than one metre or greater than one metre. This allows us to distinguish between those who strictly adhere to the protocol and those who disregard it.
+We used 3 video as our dataset for training our social distancing detector. The detector will determine whether the distance between people is less than one metre or greater than one metre. This allows us to distinguish between those who strictly adhere to the protocol and those who disregard it.
 
-![zoogif gif](https://user-images.githubusercontent.com/80897577/121993593-56546900-cdd6-11eb-909a-cee799a39bd6.gif)
+<p align="center">
+  <img src="https://www.youtube.com/watch?v=ar3JK0Qbxmw">
+</p>
+This video was uploaded to YouTube by visitors to Dinosaur Encounter @ Zoo Melaka in Melaka, Malaysia. It was photographed in December of 2020. There are some people in this video who keep the 1 metre gap, but many do not.
 
-![klstreet gif](https://user-images.githubusercontent.com/80897577/121993627-68cea280-cdd6-11eb-8716-a49bf3de4bd8.gif)
+<p align="center">
+  <img src="https://www.youtube.com/watch?v=XSubEn_d_gc&t=133s">
+</p>
+This video was also taken from YouTube, but it was shot in a different location. The photograph was taken in October 2020 at Kwai Chai Hong, Petaling Street Chinatown, Kuala Lumpur, Malaysia. Many people were walking down the street, disregarding the 1-metre gap protocol.
 
-![kfcreduced2 gif](https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif">
+</p>
+This video was shot at a Kentucky Fried Chicken (KFC) restaurant in June 2021. We could see people queuing up for their turn while keeping a 1-metre gap between them as per protocol, but some people still do not.
+
 
 ## D.  PROJECT STRUCTURE
 
@@ -88,30 +98,8 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 
 ![image](https://user-images.githubusercontent.com/74868126/121729429-0ac56500-cb21-11eb-8c55-e9d8adab609e.png)
 
-### Train Model
+### Output
 
-Train for 25 steps, 10 Epoch
-
-- Epoch 1/10
-- 25/25 [==============================] - 1s 2ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 2/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 3/10
-- 25/25 [==============================] - 1s 2ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 4/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 5/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 6/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 7/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 8/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 9/10
-- 25/25 [==============================] - 0s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
-- Epoch 10/10
-- 25/25 [==============================] - 1s 1ms/sample - loss: 0.3043 - acc: 0.6957 - val_loss: 0.3563 - val_acc: 0.6437
 
 ## F.  RESULT AND CONCLUSION
 
