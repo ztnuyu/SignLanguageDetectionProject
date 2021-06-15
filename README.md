@@ -143,13 +143,13 @@ Our implementation worked by:
 
 ## ACKNOWLEDGEMENT
 
-- Sources that our group consults from:
+### Sources that our group consults from:
 
 ### Source Code and Information
 <p>:point_right:<a href="https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/">Social Distancing Detector</a></p>
 <p>:point_right:<a href="https://drive.google.com/drive/folders/1o2FcVhLI3uJYfrcD9mPyTR3EZjgulZKY">Open Source Code Google Drive</a></p>
 <p>:point_right:<a href="https://www.youtube.com/watch?v=eBlRTel6AJY&t=3s">Youtube Video on Social Distancing Detector</a></p>
-<p>:point_right:<a href="https://www.youtube.com/watch?v=eBlRTel6AJY&t=3s">Youtube Video on Social Distancing Detector</a></p>
+
 
 ### Video for Dataset and Training
 <p>:point_right:<a href="https://www.youtube.com/watch?v=ar3JK0Qbxmw">Dinosaur Encounter @ Zoo Melaka, Melaka, Malaysia</a></p>
