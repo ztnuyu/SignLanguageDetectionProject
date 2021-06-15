@@ -44,7 +44,8 @@ The architecture can be seen in the above diagram to contain the Input image lay
 We use 4 videos with different environment as our dataset for training our social distancing detector. 
 
 <p align="center">Video 1</>
-- Video gif Utem
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/122071224-27b3ae00-ce29-11eb-9061-2ca9239e37b7.gif" width= "500" height= "250" align ="center" class="animated" /></p>
 <p align="center"> This video was taken from Kolej Kediaman Satria, UTeM on 14th May 2021 by our group member. </>
 
 
