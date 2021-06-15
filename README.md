@@ -124,6 +124,11 @@ The experimental results section for this project details the results obtained a
 </p>
 <p align="center">Result 1: Result in KFC Restaurant in Kedah</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73053555/122016067-44cd8a00-cdf3-11eb-9fc8-e37497111e2e.gif" width= "500" height= "250" align ="center" class="animated" />
+</p>
+<p align="center">Result 4: Result in UTeM Satria</p>
+
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121911140-10f65400-cd62-11eb-8c23-9fd287aac259.gif" width= "500" height= "250" align ="center" class="animated" />
 </p> -->
@@ -142,10 +147,6 @@ The experimental results section for this project details the results obtained a
 </p>
 <p align="center">Result 3: Result in KL Streets</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73053555/122016067-44cd8a00-cdf3-11eb-9fc8-e37497111e2e.gif" width= "500" height= "250" align ="center" class="animated" />
-</p>
-<p align="center">Result 4: Result in UTeM Satria</p>
 
 
 ### Conclusion
