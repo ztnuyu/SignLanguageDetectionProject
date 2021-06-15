@@ -122,7 +122,7 @@ The experimental results section for this project details the results obtained a
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121911088-02a83800-cd62-11eb-8b68-e00a4881330b.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
-<p align="center">Result 4: UTeM Satria setting</p>
+<p align="center">Result 1: Result in KFC Restaurant in Kedah</p>
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121911140-10f65400-cd62-11eb-8c23-9fd287aac259.gif" width= "500" height= "250" align ="center" class="animated" />
@@ -131,7 +131,7 @@ The experimental results section for this project details the results obtained a
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121913946-67649200-cd64-11eb-8871-a625d30a7c00.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
-<p align="center">Result 4: UTeM Satria setting</p>
+<p align="center">Result 2: Result in Zoo Melaka</p>
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121914753-2456ee80-cd65-11eb-8f1c-4ecfa2a2c881.gif" width= "500" height= "250" align ="center" class="animated" />
@@ -140,12 +140,12 @@ The experimental results section for this project details the results obtained a
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121914256-ae528780-cd64-11eb-854a-e1fc4450cc14.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
-<p align="center">Result 4: UTeM Satria setting</p>
+<p align="center">Result 3: Result in KL Streets</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/122016067-44cd8a00-cdf3-11eb-9fc8-e37497111e2e.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
-<p align="center">Result 4: UTeM Satria setting</p>
+<p align="center">Result 4: Result in UTeM Satria</p>
 
 
 ### Conclusion
