@@ -182,6 +182,8 @@ Epoch 35/35
 1875/1875 [==============================] - 3s 2ms/step - loss: 0.0187 - accuracy: 0.9934
 ```
 
+### Plotting Accuracy and Loss
+
 ## F.  RESULT AND CONCLUSION
 
 The experimental results section for this project details the results obtained after doing various observations and forming final outputs. This project focuses on social distancing detection for the events of Covid-19, Figure 3 explains the architecture for calculating the distance between objects and shows the flow of how the output is getting generated with the use of Yolo Version 4.
