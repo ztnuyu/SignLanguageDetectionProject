@@ -41,18 +41,32 @@ The architecture can be seen in the above diagram to contain the Input image lay
 
 ## C.  DATASET
 
-We use 4 videos as our dataset for training our social distancing detector. Two of our videos were shot by us, while the other two were found on YouTube.
+We use 4 videos as our dataset for training our social distancing detector. 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74868126/122060847-87598b80-ce20-11eb-9850-4a043f47ba27.mp4" width= "500" height= "250" align ="center" class="animated" />
-</p>
+### Video 1
+
+- Video gif Utem
+
+Location - Kolej Kediaman Satria, UTeM
+Source   - Our group
+
+### Video 2
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
 
+Location - KFC, Kedah
+Source   - Our group
+
+### Video 3
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
+
+Location - Petaling Street Chinatown, Kuala Lumpur
+Source   - Youtube
+
+
 <!-- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80897577/122011162-65dfac00-cdee-11eb-826d-54fedf52807a.gif">
