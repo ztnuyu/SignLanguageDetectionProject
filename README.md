@@ -109,7 +109,7 @@ A video will be loaded as the input of Social Distancing Detector. People are cl
 ![image](https://user-images.githubusercontent.com/74868126/121729429-0ac56500-cb21-11eb-8c55-e9d8adab609e.png)
 
 ### Train Model
-``
+```
 Epoch 1/35
 1875/1875 [==============================] - 4s 2ms/step - loss: 0.2933 - accuracy: 0.9153
 Epoch 2/35
@@ -180,7 +180,7 @@ Epoch 34/35
 1875/1875 [==============================] - 3s 2ms/step - loss: 0.0176 - accuracy: 0.9938
 Epoch 35/35
 1875/1875 [==============================] - 3s 2ms/step - loss: 0.0187 - accuracy: 0.9934
-``
+```
 
 ## F.  RESULT AND CONCLUSION
 
