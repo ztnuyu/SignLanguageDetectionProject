@@ -94,7 +94,7 @@ Our YOLO object detector files including the CNN architecture definition, pre-tr
 
 Three python scripts will be reviewed:
 
-- social_distancing_config.py: A Python file holding a number of constants in one convenient place.
+- config.py: A Python file holding a number of constants in one convenient place.
 - detection.py: YOLO object detection with OpenCV involves more lines of code that some easier models. We’ve decided to put the object detection logic in a function in this file for convenience. Doing so frees up our driver script’s frame processing loop from becoming especially cluttered
 - social_distance_detector.py: This file is responsible for looping over frames of a video stream and ensuring that people are maintaining a healthy distance from one another during a pandemic. It is compatible with video files.
 
