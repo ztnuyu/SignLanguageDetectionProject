@@ -162,7 +162,7 @@ Our implementation worked by:
 
 <p><a href="https://www.youtube.com/watch?v=4M2os8F2-OA">Click here to proceed with project demo</a></p>
 
-## ACKNOWLEDGEMENT
+## H. ACKNOWLEDGEMENT
 
 ### Sources that our group consults from:
 
