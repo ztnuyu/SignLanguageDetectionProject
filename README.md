@@ -44,21 +44,28 @@ The architecture can be seen in the above diagram to contain the Input image lay
 We used 3 video as our dataset for training our social distancing detector. The detector will determine whether the distance between people is less than one metre or greater than one metre. This allows us to distinguish between those who strictly adhere to the protocol and those who disregard it.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80897577/122011162-65dfac00-cdee-11eb-826d-54fedf52807a.gif">
+  <img src="https://user-images.githubusercontent.com/73053555/121910989-ee643b00-cd61-11eb-82e9-d587ad53b654.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
+<!-- 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80897577/122011162-65dfac00-cdee-11eb-826d-54fedf52807a.gif">
+</p> -->
 When people visited Dinosaur Encounter @ Zoo Melaka in Melaka, Malaysia, a YouTube channel, Walk Around Malaysia uploaded this video. It was taken in December of 2020. Some people in this video keep the one-metre gap, but many do not.
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80897577/122011539-c838ac80-cdee-11eb-9a43-90fd2a71259a.gif">
+  <img src="https://user-images.githubusercontent.com/73053555/121911140-10f65400-cd62-11eb-8c23-9fd287aac259.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
+<!-- <p align="center">
+  <img src="https://user-images.githubusercontent.com/80897577/122011539-c838ac80-cdee-11eb-9a43-90fd2a71259a.gif">
+</p> -->
 This video was also taken from YouTube channel of Walk Around Malaysia, but it was shot in a different location. The photograph was taken in October 2020 at Kwai Chai Hong, Petaling Street Chinatown, Kuala Lumpur, Malaysia. Many people were walking down the street, disregarding the 1-metre gap protocol.
 
-
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif">
+  <img src="https://user-images.githubusercontent.com/73053555/121914753-2456ee80-cd65-11eb-8f1c-4ecfa2a2c881.gif" width= "500" height= "250" align ="center" class="animated" />
 </p>
+<!-- <p align="center">
+  <img src="https://user-images.githubusercontent.com/80897577/121993646-76842800-cdd6-11eb-9423-0294472343dc.gif">
+</p> -->
 This video was shot at a Kentucky Fried Chicken (KFC) restaurant in June 2021. We could see people queuing up for their turn while keeping a 1-metre gap between them as per protocol, but some people still do not.
 
 
