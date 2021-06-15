@@ -188,6 +188,9 @@ Epoch 35/35
 ![image](https://user-images.githubusercontent.com/74868126/122054465-48c0d280-ce1a-11eb-8224-ba3ebe43ae99.png)
 ![image](https://user-images.githubusercontent.com/74868126/122054498-50807700-ce1a-11eb-96bb-823d0d97bae7.png)
 
+Here we use Tensorboard in Google Colaboratory.
+From the plot of accuracy and loss we can see that the model showing comparable skill on the train and validation datasets.
+
 
 ## F.  RESULT AND CONCLUSION
 
