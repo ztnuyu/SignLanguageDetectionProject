@@ -260,7 +260,7 @@ Our implementation worked by:
 
 [![livedemo](https://user-images.githubusercontent.com/74868126/122067466-2e8cf180-ce26-11eb-8665-f17553d2dd54.png)](https://www.youtube.com/watch?v=4M2os8F2-OA "DEMO")
 
-<p><a href="https://www.youtube.com/watch?v=4M2os8F2-OA">Click here to proceed with project demo</a></p>
+<p><a href="https://youtu.be/xhLEZ3G_tfg">Click here to proceed with project demo</a></p>
 
 
 ## H. ACKNOWLEDGEMENT
